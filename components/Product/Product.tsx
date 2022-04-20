@@ -6,7 +6,6 @@ import { Tag } from "../Tag/Tag";
 import { Button } from "../Button/Button";
 import { Divider } from "../Divider/Divider";
 import { declOfNUm, priceRu } from "../../helpers/helpers";
-import cn from 'classnames';
 import Image from "next/image";
 import { ForwardedRef, forwardRef, useRef, useState } from "react";
 import { Review } from "../Review/Review";
