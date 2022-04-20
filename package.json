@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "stylelint": "stylelint \"**/*.css\" --fix"
   },
   "dependencies": {
     "axios": "^0.26.1",
